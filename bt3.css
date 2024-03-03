@@ -1,0 +1,45 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    text-align: left ;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: bold;
+    text-align: left;
+
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: bold;
+    color: #dd0f0f
+}
+
+
+h4 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-style: Normal;
+    text-align: left ;
+
+}
+
+h5 {
+    font-family: "Courier  New", Courier, mono;
+    font-size: 14px;
+    font-style: normal;
+    color: #bfcdce
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-align: left ;
+    background-color: rgb(255, 255, 255);
+}

@@ -1,0 +1,25 @@
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 38px;
+    text-align: center;
+    color: #000000
+}
+ 
+button {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    text-align: center;
+    color: #f6eeee;
+    background-color: rgb(60, 34, 189);
+    width: 8%;
+    height: 5vh;
+    border-color: #fafafa;
+}
+
+h5 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    text-align: center;
+    color: #000000
+}
